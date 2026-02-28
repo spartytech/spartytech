@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hey there ✌️
+
+I'm Peter, a Web Developer based in Czech Republic.
+
+I design, programme, and build websites to get skilled.
+
+If i like an idea, I'm gonna build it.
+
+My tech stack so far is react, typescript, tailwindcss. I also like using figma for my web design.
+
+I've got few projects pinned, go check them out!
+
+### **Fun Facts**🏣
+
+- I love math and video games
+- I like monster energy drinks
+- Jujutsu Kaisen is my favorite anime
+- I am pretty good at geometry dash
+- **Hobbies**: anime, gym, games, building things
+
+
+
+
 
 <!--
 **spartytech/spartytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
