@@ -14,9 +14,9 @@ VISIT MY PORTFOLIO - https://spartytech.github.io/
 
 ### **Fun Facts**🏣
 
-- I love math and video games
+- I play valorant a lot
 - I like monster energy drinks
-- Jujutsu Kaisen is my favorite anime
+- Jujutsu Kaisen is my favorite show
 - I am pretty good at geometry dash
 - **Hobbies**: anime, gym, games, building things
 
