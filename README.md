@@ -10,7 +10,7 @@ My tech stack so far is react, typescript, tailwindcss. I also like using figma 
 
 I've got few projects pinned, go check them out!
 
-VISIT MY PORTFOLIO - https://spartytech.github.io/
+VISIT MY PORTFOLIO - https://spartytech-portfolio.vercel.app/
 
 ### **Fun Facts**🏣
 
